@@ -1,1 +1,1 @@
-Это тестовое сообщение
+This is test message
