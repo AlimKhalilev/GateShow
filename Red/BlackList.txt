@@ -65,3 +65,5 @@ Den_Gold
 Julia_Bacardi
 Alessandro_LaRuffa
 Ryan_Wang
+Andrey_Kokalov
+Leo_Baron
